@@ -1,6 +1,16 @@
 # Deep Sen Portfolio
 
-Personal portfolio focused on Computer Vision, Machine Learning, Deep Learning and full-stack engineering.
+Personal portfolio focused on Computer Vision, Machine Learning, Deep Learning, AI systems and full-stack engineering.
+
+## Featured Project
+**MatRisk AI — Dual Domain Risk Intelligence System**
+- Physics-Informed Neural Networks (PINN)
+- CGNN / graph-based material modeling
+- XGBoost commodity forecasting
+- Cox Proportional Hazards and survival analysis
+- GAN-based material design
+- Insurance risk modeling
+- MatRisk Lab simulation engine
 
 ## Core Skills
 - Computer Vision
